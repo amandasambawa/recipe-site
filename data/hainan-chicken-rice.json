@@ -1,0 +1,61 @@
+{
+  "slug": "hainan-chicken-rice",
+  "title": "Hainan Chicken Rice",
+  "heroTitle": ["Hainan", "Chicken", "Rice"],
+  "heroItalicWord": "Chicken",
+  "category": "Mains",
+  "cuisine": "Hainan-Inspired",
+  "subhead": "A fragrant, one-pot weeknight dinner that tastes like it came from a hawker stall.",
+  "intro": "This is the kind of recipe that sounds too simple to be that good — and then it surprises you every time. The chicken perfumes the rice as it cooks, the ginger and garlic work their way into every grain, and the whole thing comes together in a single rice cooker with almost no effort. It's become a regular in our rotation for a reason.",
+  "badge": "One Pot · Rice Cooker",
+  "stats": {
+    "prep": "10",
+    "cook": "35",
+    "servings": "2–3"
+  },
+  "ingredientGroups": [
+    {
+      "name": "The Rice",
+      "ingredients": [
+        { "amount": "2 cups",  "item": "Jasmine rice (washed)" },
+        { "amount": "1 nub",   "item": "Fresh ginger (grated)" },
+        { "amount": "4 cloves","item": "Garlic (minced)" },
+        { "amount": "2 tbsp",  "item": "Soy sauce" }
+      ]
+    },
+    {
+      "name": "The Chicken",
+      "ingredients": [
+        { "amount": "3–4",    "item": "Bone-in, skin-on chicken thighs" },
+        { "amount": "1 tbsp", "item": "Sesame oil" },
+        { "amount": "2",      "item": "Green onions (whites for cooking, greens for garnish)" }
+      ]
+    }
+  ],
+  "tip": "Use the water line for the amount of rice you're cooking, but reduce it by a small splash — the chicken releases its own juices as it cooks, which adds extra liquid and flavor to the rice.",
+  "steps": [
+    {
+      "title": "Prep the Ingredients",
+      "description": "Wash 2 cups of rice until the water runs mostly clear, then let it drain. Grate a generous nub of fresh ginger, mince around 4 cloves of garlic, and chop 2 green onions — keeping the whites and greens separate.",
+      "photo": "step1"
+    },
+    {
+      "title": "Load the Rice Cooker",
+      "description": "Add the washed rice to the rice cooker along with the grated ginger and minced garlic. Pour in 2 tablespoons of soy sauce and stir everything together. Nestle the chicken thighs on top of the rice, then drizzle them with about a tablespoon of sesame oil. Tuck the green onion whites in around the chicken.",
+      "photo": "step2"
+    },
+    {
+      "title": "Cook & Serve",
+      "description": "Close the lid and run your rice cooker on its normal cycle. Once it clicks to warm, let it rest for 5–10 minutes before opening. The chicken should be cooked through and the rice fragrant and glossy. Fluff the rice, slice or shred the chicken, and serve with the green onion tops scattered over everything.",
+      "photo": "step3"
+    }
+  ],
+  "variations": [
+    { "title": "Add Chili Oil",    "text": "Drizzle chili oil or a spoonful of sambal over the finished bowl for heat." },
+    { "title": "Ginger Scallion Sauce", "text": "Blend grated ginger, scallions, neutral oil, and a pinch of salt for a classic dipping sauce on the side." },
+    { "title": "Swap the Protein", "text": "Boneless thighs work great and are easier to slice. Drumsticks also hold up beautifully." },
+    { "title": "Dark Soy",        "text": "Sub half the soy sauce for dark soy sauce for a deeper, slightly sweeter color and flavor." },
+    { "title": "Add Mushrooms",   "text": "Tuck a few dried shiitake mushrooms (soaked and sliced) into the rice before cooking for extra umami." },
+    { "title": "Cucumber Side",   "text": "Serve alongside thinly sliced cucumber dressed with rice vinegar, sesame oil, and a pinch of sugar." }
+  ]
+}

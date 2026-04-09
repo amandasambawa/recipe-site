@@ -1,0 +1,70 @@
+{
+  "slug": "soy-ginger-shishito-peppers",
+  "title": "Soy-Ginger Shishito Peppers",
+  "heroTitle": ["Soy-Ginger", "Shishito", "Peppers"],
+  "heroItalicWord": "Shishito",
+  "category": "Appetizer",
+  "cuisine": "Japanese-Inspired",
+  "subhead": "A sweet, smoky, umami-glazed snack that comes together in under 15 minutes...",
+  "intro": "Shishito peppers are one of my favorite quick snacks or sides — they're smoky, a little sweet, and this recipe takes them up a notch with a simple soy-ginger glaze that comes together in just minutes. One in ten will surprise you with a kick. That's part of the fun.",
+  "introHighlight": "One in ten will surprise you with a kick.",
+  "badge": "Ready in 15 Minutes",
+  "stats": {
+    "prep": "5",
+    "cook": "10",
+    "servings": "2–4"
+  },
+  "ingredientGroups": [
+    {
+      "name": "The Peppers",
+      "ingredients": [
+        { "amount": "8 oz",   "item": "Shishito peppers (fresh, whole, stems on)" },
+        { "amount": "1 tbsp", "item": "Avocado oil (or any high smoke point oil)" }
+      ]
+    },
+    {
+      "name": "The Soy-Ginger Sauce",
+      "ingredients": [
+        { "amount": "1 nub",   "item": "Fresh ginger (grated)" },
+        { "amount": "1 clove", "item": "Garlic (grated)" },
+        { "amount": "1 tbsp",  "item": "Soy sauce" },
+        { "amount": "1 tbsp",  "item": "Mirin" },
+        { "amount": "1 tsp",   "item": "Sesame oil" },
+        { "amount": "1 tsp",   "item": "Sugar (add more if you like it sweeter)" },
+        { "amount": "1 tsp",   "item": "Potato starch" },
+        { "amount": "1 tbsp",  "item": "Water (add more as needed)" }
+      ]
+    }
+  ],
+  "tip": "Microwaving the sauce just 15–20 seconds gives it that beautiful glossy thickness. Don't skip this step!",
+  "steps": [
+    {
+      "title": "Broil the Peppers",
+      "description": "Spread your shishito peppers on a baking sheet and drizzle with avocado oil. Pop them under the broiler for about 8 minutes, flipping halfway through. You'll know they're ready when the skins are blistered and a little charred.",
+      "photo": "step1"
+    },
+    {
+      "title": "Whisk Up the Sauce",
+      "description": "While the peppers broil, mix together the grated ginger, garlic, soy sauce, mirin, sesame oil, sugar, potato starch, and water. Stir well, then microwave 15–20 seconds until it thickens into a glossy sauce.",
+      "photo": "step2"
+    },
+    {
+      "title": "Toss & Enjoy",
+      "description": "Pour the sauce over your hot, blistered peppers and let them sit for a minute so they soak up all that flavor. Serve right away — they're best warm and a little messy.",
+      "photo": "step3"
+    }
+  ],
+  "banner": {
+    "emoji": "🌶️",
+    "title": "The 1-in-10 Rule",
+    "text": "Shishito peppers are generally mild, but roughly one in ten will sneak in a surprising kick. The heat depends on growing conditions — there's no way to tell from the outside. That's half the fun."
+  },
+  "variations": [
+    { "title": "Make It Spicier",  "text": "Add chili flakes or a dash of sriracha to the sauce before microwaving." },
+    { "title": "Extra Sweet",      "text": "Increase sugar to a tablespoon or sub honey for a teriyaki-style glaze." },
+    { "title": "Serve As a Side",  "text": "Pairs beautifully alongside rice, grilled salmon, or Japanese-style chicken." },
+    { "title": "Garnish Ideas",    "text": "Top with sliced scallions, furikake, or extra sesame oil before serving." },
+    { "title": "Make Ahead",       "text": "Mix the sauce ahead and refrigerate. Broil peppers fresh when ready." },
+    { "title": "Oil Swaps",        "text": "No avocado oil? Grapeseed, sunflower, or refined coconut oil all work great." }
+  ]
+}

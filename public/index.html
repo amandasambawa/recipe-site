@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fred and Amanda's Kitchen</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <!-- Fixed nav — index only; recipe view has its own back bar -->
+  <nav id="mainNav">
+    <a href="/" class="nav-logo">Fred and Amanda's Kitchen</a>
+    <ul class="nav-links">
+      <li><a href="/">Recipes</a></li>
+    </ul>
+  </nav>
+
+  <!-- ── Index view ───────────────────────────────────────────────── -->
+  <div id="view-index">
+
+    <header class="collection-header">
+      <div class="collection-eyebrow">The Recipe Collection</div>
+      <h1 class="collection-title">From Our Kitchen</h1>
+      <p class="collection-sub">Honest recipes, tested in a real kitchen.</p>
+    </header>
+
+    <div class="divider"><span>🌿</span></div>
+
+    <div class="filter-bar" id="filterBar"></div>
+
+    <div class="recipe-grid" id="recipeGrid">
+      <div class="grid-loading">Loading…</div>
+    </div>
+
+    <footer>
+      Made with <span class="heart">♥</span> by Amanda &amp; Fred &nbsp;·&nbsp; The Blog Hub &nbsp;·&nbsp; All rights reserved
+    </footer>
+
+  </div>
+
+  <!-- ── Recipe view (slides up from bottom) ──────────────────────── -->
+  <div id="view-recipe" aria-hidden="true"></div>
+
+  <script src="/app.js"></script>
+</body>
+</html>
