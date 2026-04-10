@@ -7,6 +7,7 @@
   "cuisine": "Hainan-Inspired",
   "subhead": "A fragrant, one-pot weeknight dinner that tastes like it came from a hawker stall.",
   "intro": "This is the kind of recipe that sounds too simple to be that good — and then it surprises you every time. The chicken perfumes the rice as it cooks, the ginger and garlic work their way into every grain, and the whole thing comes together in a single rice cooker with almost no effort. It's become a regular in our rotation for a reason.",
+  "heroPhoto": "step4",
   "badge": "One Pot · Rice Cooker",
   "stats": {
     "prep": "10",
@@ -45,9 +46,14 @@
       "photo": "step2"
     },
     {
-      "title": "Cook & Serve",
-      "description": "Close the lid and run your rice cooker on its normal cycle. Once it clicks to warm, let it rest for 5–10 minutes before opening. The chicken should be cooked through and the rice fragrant and glossy. Fluff the rice, slice or shred the chicken, and serve with the green onion tops scattered over everything.",
+      "title": "Cook",
+      "description": "Close the lid and run your rice cooker on its normal cycle. Once it clicks to warm, let it rest for 5–10 minutes before opening. The chicken should be cooked through and the rice fragrant and glossy.",
       "photo": "step3"
+    },
+    {
+      "title": "Plate & Serve",
+      "description": "Fluff the rice, slice or shred the chicken, and serve in bowls with the green onion tops scattered over everything. A drizzle of chili oil or a side of ginger scallion sauce takes it over the top.",
+      "photo": "step4"
     }
   ],
   "variations": [

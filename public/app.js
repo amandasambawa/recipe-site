@@ -119,7 +119,7 @@ function renderCards() {
 
 function cardHTML(r, featured) {
   const color  = catColor(r.category);
-  const photo  = `/uploads/${e(r.slug)}/step3.jpg`;
+  const photo  = `/uploads/${e(r.slug)}/${e(r.heroPhoto || 'step3')}.jpg`;
   const stats  = [
     r.stats?.prep     ? `<span class="card-stat">${e(r.stats.prep)} min prep</span>`   : '',
     r.stats?.cook     ? `<span class="card-stat">${e(r.stats.cook)} min cook</span>`   : '',
@@ -310,7 +310,7 @@ function renderRecipeHTML(r) {
     </div>
     <div class="hero-image">
       <div class="hero-placeholder">Finished Dish Photo</div>
-      <img src="/uploads/${e(r.slug)}/step3.jpg" alt="${e(r.title)}" onerror="this.style.opacity='0'">
+      <img src="/uploads/${e(r.slug)}/${e(r.heroPhoto || 'step3')}.jpg" alt="${e(r.title)}" onerror="this.style.opacity='0'">
       ${r.badge ? `<div class="hero-badge">${e(r.badge)}</div>` : ''}
     </div>
   </section>
